@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-Url = input("Enter The Url : ")
+url = input("Enter The Url : ")
 
 # --------------------------------------
 
